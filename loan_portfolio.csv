@@ -1,0 +1,201 @@
+loan_id,sector,loan_amount_lakh,tenure_months,promoter_score,repayment_track,irr_percent,investor_backing,years_in_operation,risk_label
+UCIC-1000,Healthcare,300,18,57.0,100.0,20.26,Strong,2.5,Medium
+UCIC-1001,Affordable Housing,100,48,53.1,73.1,14.29,Strong,11.4,Low
+UCIC-1002,Microfinance,150,36,63.4,72.3,13.5,Weak,1.4,Medium
+UCIC-1003,Clean Energy,750,48,49.5,71.6,17.41,Strong,5.9,Medium
+UCIC-1004,Food & Agri,300,24,56.7,75.6,14.34,Weak,6.9,Medium
+UCIC-1005,Food & Agri,50,48,47.0,69.4,17.9,Moderate,6.2,Medium
+UCIC-1006,Food & Agri,100,24,94.5,61.7,16.61,Strong,4.4,Low
+UCIC-1007,Education,300,12,65.5,62.2,11.45,Weak,4.6,Medium
+UCIC-1008,Microfinance,50,48,54.5,71.4,20.64,Moderate,5.1,Medium
+UCIC-1009,Microfinance,150,12,68.2,62.2,21.39,Moderate,4.6,Medium
+UCIC-1010,Food & Agri,300,24,63.3,59.2,14.16,Strong,7.9,Medium
+UCIC-1011,Affordable Housing,300,60,61.7,73.9,14.84,Moderate,11.6,Low
+UCIC-1012,Education,300,60,74.2,67.4,16.86,Strong,3.3,Low
+UCIC-1013,Food & Agri,150,36,76.4,99.1,17.0,Strong,0.9,Low
+UCIC-1014,Food & Agri,500,36,57.0,24.3,17.98,Weak,4.7,High
+UCIC-1015,Food & Agri,150,24,56.4,91.6,22.03,Strong,12.7,Low
+UCIC-1016,Healthcare,200,24,60.9,94.4,15.47,Moderate,2.6,Low
+UCIC-1017,Clean Energy,500,24,30.5,34.7,13.61,Strong,9.9,High
+UCIC-1018,Clean Energy,300,36,42.3,65.8,11.86,Moderate,10.0,High
+UCIC-1019,Healthcare,500,36,85.5,65.3,13.81,Strong,3.3,Low
+UCIC-1020,Microfinance,300,36,89.7,46.7,15.9,Weak,6.7,Medium
+UCIC-1021,Food & Agri,300,36,61.3,58.0,21.38,Moderate,9.9,High
+UCIC-1022,Healthcare,100,12,73.6,52.0,14.45,Strong,3.9,Medium
+UCIC-1023,Healthcare,200,24,69.7,100.0,16.67,Strong,4.4,Low
+UCIC-1024,Clean Energy,150,12,100.0,88.8,15.95,Strong,3.3,Low
+UCIC-1025,Microfinance,150,36,81.8,94.9,19.57,Moderate,2.0,Low
+UCIC-1026,Food & Agri,1500,24,63.1,85.0,23.58,Strong,3.1,Low
+UCIC-1027,Clean Energy,200,48,50.7,51.7,14.41,Weak,1.3,High
+UCIC-1028,Clean Energy,750,24,40.9,62.6,14.53,Moderate,5.1,High
+UCIC-1029,Food & Agri,300,18,68.1,80.8,19.13,Strong,2.7,Medium
+UCIC-1030,Microfinance,500,18,53.7,50.0,18.05,Moderate,5.7,High
+UCIC-1031,Food & Agri,300,36,43.7,84.8,21.54,Moderate,0.5,Medium
+UCIC-1032,Food & Agri,300,36,55.3,67.7,17.75,Strong,6.0,Medium
+UCIC-1033,Affordable Housing,200,18,48.8,65.3,14.92,Strong,7.5,Medium
+UCIC-1034,Affordable Housing,150,12,90.3,84.8,17.77,Strong,0.5,Low
+UCIC-1035,Education,500,36,78.2,80.0,19.33,Moderate,6.1,Low
+UCIC-1036,Healthcare,150,12,64.9,65.5,18.46,Moderate,8.7,Low
+UCIC-1037,Food & Agri,50,48,87.2,92.9,17.52,Moderate,1.4,Low
+UCIC-1038,Microfinance,300,36,66.2,52.5,19.2,Weak,10.0,High
+UCIC-1039,Clean Energy,150,12,52.1,83.1,19.51,Weak,6.3,Medium
+UCIC-1040,Food & Agri,1000,12,87.8,82.7,20.15,Moderate,2.9,Low
+UCIC-1041,Clean Energy,1000,60,73.1,66.4,17.95,Weak,4.8,Medium
+UCIC-1042,Food & Agri,750,24,49.4,77.9,15.5,Strong,6.7,Medium
+UCIC-1043,Affordable Housing,200,24,62.1,49.5,16.44,Strong,5.2,Medium
+UCIC-1044,Healthcare,50,48,51.9,88.6,19.62,Strong,6.6,Low
+UCIC-1045,Microfinance,750,60,44.3,68.7,13.55,Strong,2.2,High
+UCIC-1046,Healthcare,200,60,78.9,62.6,17.11,Moderate,5.5,Low
+UCIC-1047,Clean Energy,1000,36,93.6,90.9,14.82,Weak,0.8,Medium
+UCIC-1048,Clean Energy,1000,24,44.0,59.3,16.09,Strong,4.7,High
+UCIC-1049,Food & Agri,750,12,73.4,46.6,19.84,Strong,2.3,Medium
+UCIC-1050,Affordable Housing,150,36,55.2,44.0,16.57,Moderate,2.8,Medium
+UCIC-1051,Microfinance,200,36,57.7,82.9,16.14,Weak,8.7,Medium
+UCIC-1052,Affordable Housing,750,24,56.1,49.0,11.92,Strong,8.3,Medium
+UCIC-1053,Education,200,48,52.0,100.0,18.24,Moderate,6.8,Low
+UCIC-1054,Clean Energy,150,18,65.7,34.5,17.94,Strong,1.7,Medium
+UCIC-1055,Affordable Housing,300,24,52.5,100.0,22.49,Strong,4.1,Medium
+UCIC-1056,Food & Agri,1000,12,69.1,75.8,15.08,Weak,8.6,Medium
+UCIC-1057,Food & Agri,300,24,64.2,70.3,16.66,Weak,5.4,Medium
+UCIC-1058,Food & Agri,300,12,61.4,62.2,16.75,Strong,12.0,Low
+UCIC-1059,Healthcare,100,18,51.4,79.2,20.73,Weak,6.2,Medium
+UCIC-1060,Healthcare,300,18,56.3,71.3,15.71,Moderate,5.6,Medium
+UCIC-1061,Healthcare,2000,36,76.3,91.9,16.84,Weak,4.1,Low
+UCIC-1062,Education,100,36,72.5,74.1,17.82,Moderate,5.4,Low
+UCIC-1063,Healthcare,300,36,50.3,74.7,16.56,Moderate,4.5,High
+UCIC-1064,Healthcare,750,60,66.5,65.5,14.66,Moderate,7.1,Medium
+UCIC-1065,Clean Energy,500,24,76.3,71.0,16.58,Moderate,7.9,Medium
+UCIC-1066,Food & Agri,300,24,40.0,77.5,19.22,Strong,2.6,Medium
+UCIC-1067,Education,500,48,73.2,41.2,12.92,Strong,1.0,Medium
+UCIC-1068,Food & Agri,200,18,55.1,47.7,16.4,Strong,0.5,Medium
+UCIC-1069,Affordable Housing,150,60,73.6,85.4,13.9,Moderate,6.5,Low
+UCIC-1070,Microfinance,500,12,53.6,75.1,19.59,Strong,1.7,Medium
+UCIC-1071,Food & Agri,500,60,37.9,68.7,11.43,Moderate,0.5,High
+UCIC-1072,Food & Agri,750,12,40.6,72.3,14.32,Weak,6.2,High
+UCIC-1073,Education,750,48,65.7,78.3,17.13,Strong,12.5,Low
+UCIC-1074,Microfinance,300,36,68.9,62.3,20.7,Moderate,5.0,Low
+UCIC-1075,Microfinance,300,60,51.4,58.0,15.8,Moderate,7.5,High
+UCIC-1076,Microfinance,500,12,74.6,75.5,14.33,Weak,5.2,Medium
+UCIC-1077,Food & Agri,300,36,40.1,54.4,21.64,Strong,4.7,Medium
+UCIC-1078,Healthcare,500,60,64.0,79.3,11.66,Moderate,7.8,Medium
+UCIC-1079,Food & Agri,500,36,46.8,41.4,10.0,Weak,4.1,High
+UCIC-1080,Education,750,36,55.2,90.5,17.32,Weak,5.8,Medium
+UCIC-1081,Microfinance,200,36,65.7,80.5,14.49,Moderate,6.0,Low
+UCIC-1082,Healthcare,200,24,52.1,76.6,12.94,Moderate,3.0,Medium
+UCIC-1083,Food & Agri,100,36,59.2,89.7,18.13,Moderate,8.0,Low
+UCIC-1084,Healthcare,300,36,80.1,100.0,16.73,Weak,4.5,Low
+UCIC-1085,Healthcare,50,48,56.3,90.3,14.31,Moderate,2.7,Low
+UCIC-1086,Microfinance,200,12,77.5,38.9,12.16,Strong,6.6,Low
+UCIC-1087,Microfinance,300,24,48.1,49.0,18.62,Weak,2.3,High
+UCIC-1088,Education,150,60,72.9,60.8,17.95,Moderate,5.1,Medium
+UCIC-1089,Clean Energy,300,48,86.6,72.5,15.7,Moderate,5.0,Low
+UCIC-1090,Food & Agri,50,24,27.9,81.3,21.54,Strong,8.3,Medium
+UCIC-1091,Microfinance,50,36,53.0,58.9,12.79,Moderate,6.4,High
+UCIC-1092,Microfinance,500,24,73.7,75.4,11.42,Strong,4.9,Low
+UCIC-1093,Clean Energy,200,18,62.0,58.4,13.92,Moderate,7.5,Medium
+UCIC-1094,Microfinance,100,24,70.6,61.0,15.86,Strong,9.2,Low
+UCIC-1095,Clean Energy,300,24,55.9,46.7,16.73,Moderate,6.7,Medium
+UCIC-1096,Clean Energy,500,36,66.3,55.4,15.28,Weak,5.0,High
+UCIC-1097,Clean Energy,150,12,62.7,47.7,17.06,Strong,1.1,Medium
+UCIC-1098,Food & Agri,300,60,82.5,54.4,12.25,Weak,1.8,High
+UCIC-1099,Food & Agri,100,60,68.8,91.0,20.33,Moderate,4.1,Low
+UCIC-1100,Food & Agri,100,36,70.1,54.9,15.75,Weak,3.2,Medium
+UCIC-1101,Microfinance,300,36,58.8,100.0,19.35,Moderate,4.4,Low
+UCIC-1102,Healthcare,300,24,57.7,80.9,17.03,Moderate,5.2,Low
+UCIC-1103,Clean Energy,300,48,58.5,75.3,17.37,Moderate,6.6,Medium
+UCIC-1104,Affordable Housing,500,36,70.9,56.5,17.71,Weak,4.8,High
+UCIC-1105,Food & Agri,1500,18,58.7,84.6,17.34,Moderate,6.5,Low
+UCIC-1106,Clean Energy,300,48,69.3,61.6,17.93,Strong,5.2,Low
+UCIC-1107,Microfinance,200,48,96.1,74.2,19.99,Moderate,0.5,Medium
+UCIC-1108,Food & Agri,500,60,78.1,100.0,16.59,Weak,2.2,Medium
+UCIC-1109,Food & Agri,150,36,60.1,70.3,18.13,Moderate,4.6,Medium
+UCIC-1110,Healthcare,200,36,83.0,92.7,15.73,Moderate,1.4,Low
+UCIC-1111,Food & Agri,100,24,58.9,59.3,20.32,Moderate,6.8,Medium
+UCIC-1112,Affordable Housing,50,60,34.4,71.4,13.97,Weak,9.6,Medium
+UCIC-1113,Education,1000,48,49.9,100.0,21.4,Strong,8.7,Low
+UCIC-1114,Microfinance,500,12,36.9,60.7,15.88,Moderate,4.4,Medium
+UCIC-1115,Education,300,12,59.7,100.0,11.71,Strong,9.5,Low
+UCIC-1116,Education,200,24,65.3,84.7,16.38,Strong,5.4,Low
+UCIC-1117,Food & Agri,150,48,90.1,61.9,13.96,Strong,4.0,Low
+UCIC-1118,Education,150,60,69.9,83.4,18.52,Strong,3.2,Low
+UCIC-1119,Clean Energy,150,18,61.7,89.5,14.04,Moderate,4.1,Low
+UCIC-1120,Education,300,36,77.4,83.2,14.66,Strong,3.8,Low
+UCIC-1121,Education,500,24,31.8,43.7,10.33,Moderate,5.5,High
+UCIC-1122,Healthcare,300,60,68.5,58.9,14.64,Strong,5.5,Medium
+UCIC-1123,Food & Agri,150,48,76.6,67.5,10.0,Strong,5.0,Low
+UCIC-1124,Food & Agri,1000,48,42.8,70.7,11.25,Strong,6.3,Medium
+UCIC-1125,Clean Energy,500,24,82.2,83.2,18.28,Strong,8.6,Low
+UCIC-1126,Education,300,24,70.1,75.2,18.36,Moderate,7.8,Medium
+UCIC-1127,Education,300,24,58.8,48.0,17.28,Moderate,0.5,High
+UCIC-1128,Food & Agri,200,12,74.5,78.8,13.1,Moderate,0.5,Medium
+UCIC-1129,Clean Energy,150,48,99.1,83.0,15.86,Moderate,7.8,Low
+UCIC-1130,Clean Energy,200,48,67.7,82.1,15.99,Strong,0.9,Low
+UCIC-1131,Food & Agri,500,60,68.7,91.5,12.52,Weak,4.3,Medium
+UCIC-1132,Food & Agri,50,60,58.1,87.0,20.51,Moderate,1.5,Low
+UCIC-1133,Healthcare,100,36,52.3,80.3,18.63,Moderate,0.5,Medium
+UCIC-1134,Affordable Housing,50,36,77.5,70.7,15.34,Strong,6.6,Low
+UCIC-1135,Healthcare,50,60,52.2,42.1,16.08,Strong,7.3,High
+UCIC-1136,Clean Energy,750,48,66.1,79.7,16.63,Strong,3.3,Medium
+UCIC-1137,Microfinance,500,18,57.8,75.7,10.0,Strong,0.5,Low
+UCIC-1138,Healthcare,200,24,72.2,76.9,15.26,Moderate,3.4,Low
+UCIC-1139,Affordable Housing,100,18,70.0,49.0,13.95,Moderate,6.2,Medium
+UCIC-1140,Affordable Housing,200,60,80.6,52.5,13.0,Moderate,0.6,Medium
+UCIC-1141,Healthcare,200,36,57.3,91.0,15.16,Moderate,5.6,Low
+UCIC-1142,Clean Energy,150,18,61.0,71.3,21.39,Weak,5.0,Medium
+UCIC-1143,Healthcare,200,36,50.3,84.3,17.92,Moderate,6.7,Medium
+UCIC-1144,Healthcare,200,36,58.3,72.5,14.29,Weak,5.4,Low
+UCIC-1145,Food & Agri,300,24,70.7,72.5,17.72,Strong,2.1,Medium
+UCIC-1146,Microfinance,300,18,76.4,88.9,20.2,Strong,8.6,Low
+UCIC-1147,Clean Energy,50,36,51.2,62.7,18.77,Strong,4.5,Medium
+UCIC-1148,Food & Agri,200,36,78.0,73.7,16.18,Moderate,4.9,Low
+UCIC-1149,Healthcare,300,36,85.3,63.7,14.06,Weak,2.2,Medium
+UCIC-1150,Affordable Housing,300,36,71.2,64.2,18.09,Strong,3.7,Low
+UCIC-1151,Food & Agri,750,48,93.2,66.4,17.18,Weak,2.3,Medium
+UCIC-1152,Food & Agri,300,36,53.4,76.0,18.69,Strong,4.5,Medium
+UCIC-1153,Clean Energy,150,36,46.3,63.4,17.91,Weak,10.1,Medium
+UCIC-1154,Affordable Housing,100,48,38.3,94.6,19.15,Strong,0.9,Medium
+UCIC-1155,Food & Agri,300,24,87.4,55.9,14.39,Strong,0.5,Medium
+UCIC-1156,Microfinance,50,18,74.8,68.6,19.95,Moderate,9.4,Low
+UCIC-1157,Microfinance,300,12,64.2,64.1,16.59,Strong,4.4,Medium
+UCIC-1158,Food & Agri,1000,36,69.2,98.0,22.23,Strong,3.0,Low
+UCIC-1159,Microfinance,300,36,48.1,75.5,13.93,Strong,8.1,Medium
+UCIC-1160,Healthcare,200,36,100.0,90.6,21.21,Weak,3.2,Low
+UCIC-1161,Microfinance,300,18,66.9,45.3,16.59,Moderate,10.5,High
+UCIC-1162,Microfinance,200,18,66.6,76.8,14.05,Strong,7.0,Low
+UCIC-1163,Clean Energy,300,12,75.9,88.0,14.55,Moderate,3.5,Low
+UCIC-1164,Food & Agri,1000,24,72.2,73.5,15.04,Moderate,11.5,Medium
+UCIC-1165,Education,200,36,68.4,91.2,17.27,Strong,3.2,Low
+UCIC-1166,Healthcare,1000,24,53.1,62.7,17.57,Moderate,7.2,Medium
+UCIC-1167,Food & Agri,750,24,72.1,97.4,14.28,Strong,5.9,Low
+UCIC-1168,Food & Agri,150,48,93.2,100.0,15.93,Strong,8.9,Low
+UCIC-1169,Clean Energy,100,24,85.2,65.5,22.43,Moderate,9.7,Low
+UCIC-1170,Microfinance,100,36,88.9,64.0,21.18,Strong,5.1,Low
+UCIC-1171,Food & Agri,50,36,57.3,98.2,17.31,Moderate,2.7,Low
+UCIC-1172,Clean Energy,100,24,50.2,100.0,16.11,Moderate,6.4,Medium
+UCIC-1173,Food & Agri,300,36,63.1,62.6,16.36,Strong,3.0,Low
+UCIC-1174,Microfinance,100,48,65.8,64.4,17.84,Moderate,11.0,Low
+UCIC-1175,Food & Agri,200,60,81.4,66.9,12.93,Strong,5.4,Low
+UCIC-1176,Microfinance,500,18,39.6,47.8,15.23,Weak,3.9,High
+UCIC-1177,Healthcare,50,60,87.9,55.5,10.99,Moderate,5.6,Medium
+UCIC-1178,Affordable Housing,500,24,62.6,53.9,17.2,Weak,1.0,High
+UCIC-1179,Food & Agri,150,24,58.6,58.2,17.94,Moderate,2.1,High
+UCIC-1180,Healthcare,100,24,49.8,71.4,14.55,Strong,8.6,Medium
+UCIC-1181,Food & Agri,300,60,40.2,76.2,20.72,Moderate,3.0,High
+UCIC-1182,Affordable Housing,300,24,77.3,99.9,12.32,Weak,1.9,Medium
+UCIC-1183,Education,750,24,66.1,54.0,11.61,Moderate,6.6,Medium
+UCIC-1184,Healthcare,500,36,45.7,89.7,16.67,Weak,8.6,Medium
+UCIC-1185,Microfinance,500,18,45.6,68.1,19.14,Weak,7.2,Medium
+UCIC-1186,Education,150,12,60.0,71.1,21.05,Strong,8.0,Low
+UCIC-1187,Clean Energy,150,18,90.0,84.1,14.62,Strong,2.7,Low
+UCIC-1188,Clean Energy,500,18,61.1,51.8,19.24,Moderate,0.7,High
+UCIC-1189,Food & Agri,500,18,42.5,78.9,15.88,Moderate,9.5,Medium
+UCIC-1190,Food & Agri,2000,18,61.3,75.0,15.48,Weak,4.0,Medium
+UCIC-1191,Education,200,36,60.9,80.9,18.65,Weak,4.2,Medium
+UCIC-1192,Affordable Housing,200,18,24.5,77.2,17.96,Strong,9.0,Medium
+UCIC-1193,Microfinance,500,24,64.2,100.0,11.27,Strong,6.7,Low
+UCIC-1194,Healthcare,200,48,61.5,60.5,20.43,Moderate,6.4,Medium
+UCIC-1195,Healthcare,1000,24,75.4,62.4,20.14,Strong,11.5,Low
+UCIC-1196,Microfinance,750,36,92.7,60.8,14.12,Weak,3.1,Medium
+UCIC-1197,Education,200,18,81.9,62.0,17.19,Moderate,7.8,Low
+UCIC-1198,Education,500,18,61.0,60.5,17.48,Moderate,5.2,Low
+UCIC-1199,Microfinance,500,12,48.4,93.4,16.78,Strong,5.8,Medium
