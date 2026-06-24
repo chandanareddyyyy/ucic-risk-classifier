@@ -48,7 +48,7 @@ RISK_COLORS = {"Low": "#10b981", "Medium": "#f59e0b", "High": "#ef4444"}
 # ── Sidebar filters ──────────────────────────────────────────────
 with st.sidebar:
     st.image("https://www.ucinclusive.in/wp-content/uploads/2019/09/logo.png", width=180)
-    st.markdown("## UCIC Risk Dashboard")
+    st.markdown("## UCIC Risk Dashboard By Chandana Reddy")
     st.markdown("---")
     st.markdown("### Portfolio Filters")
 
