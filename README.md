@@ -2,7 +2,7 @@
 
 A machine learning dashboard that automates credit risk assessment for impact enterprise loan portfolios — built as a prototype aligned with UC Inclusive Credit's (UCIC) lending focus.
 
-🔗 **[Live Demo](#)** &nbsp;|&nbsp; 📂 **[GitHub](#)**
+🔗 **[Live Demo](https://ucic-risk-classifier-by-chandanareddy.streamlit.app/)** &nbsp;|&nbsp; 📂 **[GitHub](https://github.com/chandanareddyyyy/ucic-risk-classifier)**
 
 ---
 
