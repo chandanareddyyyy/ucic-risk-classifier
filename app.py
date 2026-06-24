@@ -6,7 +6,7 @@ import plotly.graph_objects as go
 import joblib
 
 st.set_page_config(
-    page_title="UCIC Loan Risk Dashboard",
+    page_title="UCIC Loan Risk Dashboard By Chandana Reddy",
     page_icon="🏦",
     layout="wide"
 )
